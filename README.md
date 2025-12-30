@@ -15,11 +15,12 @@ A simple command-line expense tracker built using Python.
 - matplotlib
 
 ## How to Run
-```bash
+
 pip install matplotlib
 python main.py
 
-Files
+
+##Files
 
 main.py – CLI menu
 
