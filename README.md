@@ -28,6 +28,6 @@ tracker.py – Expense logic
 
 expenses.csv – Auto-generated data file
 
-Author
+## Author
 
 Sharmila Dinesh
