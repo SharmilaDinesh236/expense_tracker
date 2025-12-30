@@ -20,7 +20,7 @@ pip install matplotlib
 python main.py
 
 
-##Files
+## Files
 
 main.py – CLI menu
 
